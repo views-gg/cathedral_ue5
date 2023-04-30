@@ -1203,3 +1203,141 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.04.30-12.09.00:921][393]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
 [2023.04.30-12.09.04:009][484]LogSlate: Window 'Message Log' being destroyed
 [2023.04.30-12.09.04:014][484]LogSlate: Window 'Message Log' being destroyed
+[2023.04.30-12.09.54:877][733]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2023.04.30-12.09.54:884][734]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2023.04.30-12.09.54:885][734]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2023.04.30-12.09.54:891][734]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2023.04.30-12.09.54:927][734]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2023.04.30-12.09.54:932][734]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2023.04.30-12.09.54:933][734]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2023.04.30-12.09.54:937][735]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2023.04.30-12.10.01:199][102]LogD3D12RHI: Warning: Waited for PSO creation for 100.000000ms
+[2023.04.30-12.10.01:199][102]LogD3D12RHI: Warning: Waited for PSO creation for 100.000000ms
+[2023.04.30-12.13.58:495][716]LogDerivedDataCache: C:/Users/views/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:03:30.113 and deleted 0 files with total size 0 MiB. Scanned 114569 files in 96511 folders with total size 57871 MiB.
+[2023.04.30-12.25.32:146][609]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.30-12.25.32:221][609]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2023.04.30-12.25.32:231][609]LogPackageLocalizationCache: Processed 46 localized package path(s) for 1 prioritized culture(s) in 0.005790 seconds
+[2023.04.30-12.25.32:233][609]LogSerialization: UsePackageTrailer: 'true'
+[2023.04.30-12.25.32:236][609]LogSavePackage: Moving output files for package: /Game/MAPS/Cathedral_Demo_Persistent
+[2023.04.30-12.25.32:236][609]LogSavePackage: Moving '../../../../../../Users/views/Documents/GitHub/cathedral_ue5/CathedralUE5 5.1/Saved/Cathedral_Demo_PersistentC74D2EE846D712F68710C9987E0CDBD6.tmp' to '../../../../../../Users/views/Documents/GitHub/cathedral_ue5/CathedralUE5 5.1/Content/MAPS/Cathedral_Demo_Persistent.umap'
+[2023.04.30-12.25.32:246][609]LogFileHelpers: Saving map 'Cathedral_Demo_Persistent' took 0.035
+[2023.04.30-12.25.32:251][609]LogFileHelpers: InternalPromptForCheckoutAndSave took 105 ms
+[2023.04.30-12.25.32:255][609]AssetCheck: New page: Asset Save: Cathedral_Demo_Persistent
+[2023.04.30-12.25.32:255][609]LogContentValidation: Display: Validating /Script/Engine.World /Game/MAPS/Cathedral_Demo_Persistent.Cathedral_Demo_Persistent
+[2023.04.30-12.26.32:037][489]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.30-12.26.32:119][489]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2023.04.30-12.26.32:126][489]LogSavePackage: Moving output files for package: /Game/MAPS/Cathedral_Demo_Persistent
+[2023.04.30-12.26.32:127][489]LogSavePackage: Moving '../../../../../../Users/views/Documents/GitHub/cathedral_ue5/CathedralUE5 5.1/Saved/Cathedral_Demo_PersistentE0DA90DD4D6B5B982CD04A827D8941F0.tmp' to '../../../../../../Users/views/Documents/GitHub/cathedral_ue5/CathedralUE5 5.1/Content/MAPS/Cathedral_Demo_Persistent.umap'
+[2023.04.30-12.26.32:137][489]LogFileHelpers: Saving map 'Cathedral_Demo_Persistent' took 0.027
+[2023.04.30-12.26.32:141][489]LogFileHelpers: InternalPromptForCheckoutAndSave took 104 ms (total: 209 ms)
+[2023.04.30-12.26.32:145][489]AssetCheck: New page: Asset Save: Cathedral_Demo_Persistent
+[2023.04.30-12.26.32:145][489]LogContentValidation: Display: Validating /Script/Engine.World /Game/MAPS/Cathedral_Demo_Persistent.Cathedral_Demo_Persistent
+[2023.04.30-12.32.36:054][146]Cmd: DELETE
+[2023.04.30-12.32.36:054][146]Cmd: ACTOR DELETE
+[2023.04.30-12.32.36:084][146]LogEditorActor: Deleted Actor: FogSheet_BP_C
+[2023.04.30-12.32.36:092][146]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2023.04.30-12.32.36:094][146]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2023.04.30-12.33.04:801][538]LogStaticMesh: Display: Building static mesh S_easyFogCard_01...
+[2023.04.30-12.33.04:803][538]LogStaticMesh: Built static mesh [0.00s] /Game/EasyFog/Models/S_easyFogCard_01.S_easyFogCard_01
+[2023.04.30-12.33.04:810][538]LogTexture: Display: Building textures: /Game/EasyFog/Textures/Fog/T_smoothRadial_N.T_smoothRadial_N (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 303.562488 MB), EncodeSpeed: Fast
+[2023.04.30-12.33.04:819][538]LogTexture: Display: Building textures: /Game/EasyFog/Textures/Fog/T_smoothCloudsNoise_02_D.T_smoothCloudsNoise_02_D (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 169.145823 MB), EncodeSpeed: Fast
+[2023.04.30-12.33.04:850][538]LogTexture: Display: Building textures: /Game/EasyFog/Textures/Fog/T_mountainFog_01_mask.T_mountainFog_01_mask (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 305.145823 MB), EncodeSpeed: Fast
+[2023.04.30-12.33.04:984][540]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/EasyFog/Blueprints/BP_EasyFog.BP_EasyFog_C
+[2023.04.30-12.33.04:984][540]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/EasyFog/Blueprints/BP_EasyFog.BP_EasyFog_C
+[2023.04.30-12.33.04:988][540]LogActorFactory: Actor Factory spawned Blueprint /Game/EasyFog/Blueprints/BP_EasyFog.BP_EasyFog as actor: BP_EasyFog_C /Game/MAPS/Cathedral_Demo_Persistent.Cathedral_Demo_Persistent:PersistentLevel.BP_EasyFog_C_0
+[2023.04.30-12.33.04:991][540]LogActorFactory: Actor Factory spawned Blueprint /Game/EasyFog/Blueprints/BP_EasyFog.BP_EasyFog as actor: BP_EasyFog_C /Game/MAPS/Cathedral_Demo_Persistent.Cathedral_Demo_Persistent:PersistentLevel.BP_EasyFog_C_0
+[2023.04.30-12.33.04:996][540]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2023.04.30-12.33.05:511][559]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/EasyFog/Blueprints/BP_EasyFog.BP_EasyFog_C
+[2023.04.30-12.33.05:511][559]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/EasyFog/Blueprints/BP_EasyFog.BP_EasyFog_C
+[2023.04.30-12.33.05:515][559]LogActorFactory: Actor Factory spawned Blueprint /Game/EasyFog/Blueprints/BP_EasyFog.BP_EasyFog as actor: BP_EasyFog_C /Game/MAPS/Cathedral_Demo_Persistent.Cathedral_Demo_Persistent:PersistentLevel.BP_EasyFog_C_1
+[2023.04.30-12.33.05:517][559]LogActorFactory: Actor Factory spawned Blueprint /Game/EasyFog/Blueprints/BP_EasyFog.BP_EasyFog as actor: BP_EasyFog_C /Game/MAPS/Cathedral_Demo_Persistent.Cathedral_Demo_Persistent:PersistentLevel.BP_EasyFog_C_1
+[2023.04.30-12.33.05:621][561]LogShaderCompilers: Display: ================================================
+[2023.04.30-12.33.05:621][561]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.30-12.33.05:621][561]LogShaderCompilers: Display: Total job queries 321, among them cache hits 15 (4.67%)
+[2023.04.30-12.33.05:621][561]LogShaderCompilers: Display: Tracking 294 distinct input hashes that result in 259 distinct outputs (88.10%)
+[2023.04.30-12.33.05:621][561]LogShaderCompilers: Display: RAM used: 2.72 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.17%
+[2023.04.30-12.33.05:621][561]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.04.30-12.33.05:621][561]LogShaderCompilers: Display: Shaders Compiled: 3
+[2023.04.30-12.33.05:621][561]LogShaderCompilers: Display: Jobs assigned 15, completed 3 (20.00%)
+[2023.04.30-12.33.05:621][561]LogShaderCompilers: Display: Average time worker was idle: 924.26 s
+[2023.04.30-12.33.05:621][561]LogShaderCompilers: Display: Time job spent in pending queue: average 0.09 s, longest 0.71 s
+[2023.04.30-12.33.05:621][561]LogShaderCompilers: Display: Job execution time: average 0.72 s, max 0.72 s
+[2023.04.30-12.33.05:621][561]LogShaderCompilers: Display: Job life time (pending + execution): average 0.78 s, max 0.81
+[2023.04.30-12.33.05:621][561]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.54 s
+[2023.04.30-12.33.05:621][561]LogShaderCompilers: Display: Jobs were issued in 15 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.04.30-12.33.05:621][561]LogShaderCompilers: Display: Average processing rate: 1.95 jobs/sec
+[2023.04.30-12.33.05:621][561]LogShaderCompilers: Display: Total thread time: 1.39 s
+[2023.04.30-12.33.05:621][561]LogShaderCompilers: Display: Total thread preprocess time: 0.09 s
+[2023.04.30-12.33.05:621][561]LogShaderCompilers: Display: Percentage time preprocessing: 6.76%
+[2023.04.30-12.33.05:621][561]LogShaderCompilers: Display: Effective parallelization: 0.90 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2023.04.30-12.33.05:621][561]LogShaderCompilers: Display: Top 3 most expensive shader types by average time:
+[2023.04.30-12.33.05:621][561]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 0.51 sec, max 0.51 sec, min 0.51 sec)
+[2023.04.30-12.33.05:621][561]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.49 sec, max 0.49 sec, min 0.49 sec)
+[2023.04.30-12.33.05:621][561]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    1 times, average 0.38 sec, max 0.38 sec, min 0.38 sec)
+[2023.04.30-12.33.05:621][561]LogShaderCompilers: Display: Top 3 shader types by total compile time:
+[2023.04.30-12.33.05:621][561]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 36.97% of total time (compiled    1 times, average 0.51 sec, max 0.51 sec, min 0.51 sec)
+[2023.04.30-12.33.05:621][561]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 35.33% of total time (compiled    1 times, average 0.49 sec, max 0.49 sec, min 0.49 sec)
+[2023.04.30-12.33.05:621][561]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 27.70% of total time (compiled    1 times, average 0.38 sec, max 0.38 sec, min 0.38 sec)
+[2023.04.30-12.33.05:621][561]LogShaderCompilers: Display: ================================================
+[2023.04.30-12.33.07:217][627]LogD3D12RHI: Creating RTPSO with 232 shaders (0 cached, 1 new) took 135.58 ms. Compile time 131.42 ms, link time 4.12 ms.
+[2023.04.30-12.33.07:769][653]LogD3D12RHI: Creating RTPSO with 248 shaders (232 cached, 16 new) took 28.08 ms. Compile time 20.83 ms, link time 7.18 ms.
+[2023.04.30-12.33.08:595][696]Cmd: TRANSACTION UNDO
+[2023.04.30-12.33.08:595][696]LogEditorTransaction: Undo Rotate Elements
+[2023.04.30-12.33.33:869][123]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.30-12.33.33:873][123]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.30-12.33.33:873][123]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'InvertedForeground'.'
+[2023.04.30-12.33.33:880][123]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.30-12.33.33:884][123]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.30-12.33.34:045][124]LogViewport: Scene viewport resized to 1920x905, mode Windowed.
+[2023.04.30-12.33.37:551][347]LogSlate: Took 0.000225 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.04.30-12.33.37:566][348]LogViewport: Scene viewport resized to 1608x905, mode Windowed.
+[2023.04.30-12.34.00:130][598]LogViewport: Scene viewport resized to 326x183, mode Windowed.
+[2023.04.30-12.34.03:953][831]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2023.04.30-12.34.03:958][831]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2023.04.30-12.34.03:959][831]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2023.04.30-12.34.03:962][831]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2023.04.30-12.34.03:975][831]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2023.04.30-12.34.03:978][831]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2023.04.30-12.34.03:979][831]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2023.04.30-12.34.03:983][831]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2023.04.30-12.34.41:459][959]Cmd: TRANSACTION UNDO
+[2023.04.30-12.34.41:459][959]LogEditorTransaction: Undo Edit Base Color Contrast
+[2023.04.30-12.34.49:273][257]Cmd: TRANSACTION UNDO
+[2023.04.30-12.34.49:273][257]LogEditorTransaction: Undo Edit Base Color Intensity
+[2023.04.30-12.34.50:759][338]LogSlate: Took 0.000249 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.04.30-12.35.41:970][203]Cmd: TRANSACTION UNDO
+[2023.04.30-12.35.41:970][203]LogEditorTransaction: Undo Edit Camera Fading Distance
+[2023.04.30-12.35.48:461][484]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.30-12.35.48:584][484]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2023.04.30-12.35.48:600][484]LogSavePackage: Moving output files for package: /Game/MAPS/Cathedral_Demo_Persistent
+[2023.04.30-12.35.48:600][484]LogSavePackage: Moving '../../../../../../Users/views/Documents/GitHub/cathedral_ue5/CathedralUE5 5.1/Saved/Cathedral_Demo_Persistent6301EB014FA376233AC466B6C31EE05E.tmp' to '../../../../../../Users/views/Documents/GitHub/cathedral_ue5/CathedralUE5 5.1/Content/MAPS/Cathedral_Demo_Persistent.umap'
+[2023.04.30-12.35.48:611][484]LogFileHelpers: Saving map 'Cathedral_Demo_Persistent' took 0.083
+[2023.04.30-12.35.48:617][484]LogFileHelpers: InternalPromptForCheckoutAndSave took 156 ms (total: 366 ms)
+[2023.04.30-12.35.48:622][484]AssetCheck: New page: Asset Save: Cathedral_Demo_Persistent
+[2023.04.30-12.35.48:622][484]LogContentValidation: Display: Validating /Script/Engine.World /Game/MAPS/Cathedral_Demo_Persistent.Cathedral_Demo_Persistent
+[2023.04.30-12.36.28:367][524]Cmd: DELETE
+[2023.04.30-12.36.28:367][524]Cmd: ACTOR DELETE
+[2023.04.30-12.36.28:383][524]LogEditorActor: Deleted Actor: BP_Godray_C
+[2023.04.30-12.36.28:384][524]LogEditorActor: Deleted Actor: BP_Godray_C
+[2023.04.30-12.36.28:385][524]LogEditorActor: Deleted Actor: BP_Godray_C
+[2023.04.30-12.36.28:386][524]LogEditorActor: Deleted Actor: BP_Godray_C
+[2023.04.30-12.36.28:408][524]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.04.30-12.36.28:411][524]LogEditorActor: Deleted 4 Actors (0.045 secs)
+[2023.04.30-12.36.33:183][690]Cmd: DELETE
+[2023.04.30-12.36.33:183][690]Cmd: ACTOR DELETE
+[2023.04.30-12.36.33:196][690]LogEditorActor: Deleted Actor: BP_EasyFog_C
+[2023.04.30-12.36.33:234][690]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.04.30-12.36.33:237][690]LogEditorActor: Deleted 1 Actors (0.053 secs)
+[2023.04.30-12.36.33:845][713]Cmd: DELETE
+[2023.04.30-12.36.33:846][713]Cmd: ACTOR DELETE
+[2023.04.30-12.36.33:856][713]LogEditorActor: Deleted Actor: BP_EasyFog_C
+[2023.04.30-12.36.33:887][713]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.04.30-12.36.33:889][713]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2023.04.30-12.36.34:889][742]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.30-12.36.34:958][742]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2023.04.30-12.36.34:966][742]LogSavePackage: Moving output files for package: /Game/MAPS/Cathedral_Demo_Persistent
+[2023.04.30-12.36.34:967][742]LogSavePackage: Moving '../../../../../../Users/views/Documents/GitHub/cathedral_ue5/CathedralUE5 5.1/Saved/Cathedral_Demo_PersistentF94A777A445C5AB5937E17A0AEEB3E43.tmp' to '../../../../../../Users/views/Documents/GitHub/cathedral_ue5/CathedralUE5 5.1/Content/MAPS/Cathedral_Demo_Persistent.umap'
+[2023.04.30-12.36.34:976][742]LogFileHelpers: Saving map 'Cathedral_Demo_Persistent' took 0.027
+[2023.04.30-12.36.34:981][742]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 458 ms)
+[2023.04.30-12.36.34:984][742]AssetCheck: New page: Asset Save: Cathedral_Demo_Persistent
+[2023.04.30-12.36.34:984][742]LogContentValidation: Display: Validating /Script/Engine.World /Game/MAPS/Cathedral_Demo_Persistent.Cathedral_Demo_Persistent
