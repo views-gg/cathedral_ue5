@@ -1341,3 +1341,207 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.04.30-12.36.34:981][742]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 458 ms)
 [2023.04.30-12.36.34:984][742]AssetCheck: New page: Asset Save: Cathedral_Demo_Persistent
 [2023.04.30-12.36.34:984][742]LogContentValidation: Display: Validating /Script/Engine.World /Game/MAPS/Cathedral_Demo_Persistent.Cathedral_Demo_Persistent
+[2023.04.30-12.37.33:276][471]LogViewport: Scene viewport resized to 326x183, mode Windowed.
+[2023.04.30-12.37.50:167][ 29]LogViewport: Scene viewport resized to 331x183, mode Windowed.
+[2023.04.30-12.37.50:302][ 30]LogViewport: Scene viewport resized to 455x183, mode Windowed.
+[2023.04.30-12.37.50:349][ 30]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2023.04.30-12.37.50:354][ 30]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2023.04.30-12.37.50:355][ 30]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2023.04.30-12.37.50:359][ 30]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2023.04.30-12.37.50:390][ 30]LogViewport: Scene viewport resized to 1634x905, mode Windowed.
+[2023.04.30-12.37.50:481][ 31]LogViewport: Scene viewport resized to 489x183, mode Windowed.
+[2023.04.30-12.37.50:564][ 31]LogViewport: Scene viewport resized to 1917x772, mode Windowed.
+[2023.04.30-12.37.50:700][ 32]LogViewport: Scene viewport resized to 542x183, mode Windowed.
+[2023.04.30-12.37.50:807][ 32]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2023.04.30-12.37.50:811][ 32]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2023.04.30-12.37.50:811][ 32]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2023.04.30-12.37.50:815][ 32]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2023.04.30-12.37.50:849][ 32]LogViewport: Scene viewport resized to 1919x719, mode Windowed.
+[2023.04.30-12.37.50:994][ 33]LogViewport: Scene viewport resized to 547x183, mode Windowed.
+[2023.04.30-12.37.51:051][ 33]LogViewport: Scene viewport resized to 1918x648, mode Windowed.
+[2023.04.30-12.37.51:128][ 34]LogViewport: Scene viewport resized to 1918x643, mode Windowed.
+[2023.04.30-12.37.51:746][ 35]LogViewport: Scene viewport resized to 489x183, mode Windowed.
+[2023.04.30-12.37.51:839][ 36]LogViewport: Scene viewport resized to 477x183, mode Windowed.
+[2023.04.30-12.37.52:013][ 37]LogViewport: Scene viewport resized to 462x183, mode Windowed.
+[2023.04.30-12.37.52:108][ 37]LogViewport: Scene viewport resized to 1918x737, mode Windowed.
+[2023.04.30-12.37.52:159][ 38]LogViewport: Scene viewport resized to 1918x761, mode Windowed.
+[2023.04.30-12.37.52:308][ 40]LogViewport: Scene viewport resized to 458x183, mode Windowed.
+[2023.04.30-12.37.52:414][ 41]LogViewport: Scene viewport resized to 455x183, mode Windowed.
+[2023.04.30-12.37.52:492][ 41]LogViewport: Scene viewport resized to 1918x767, mode Windowed.
+[2023.04.30-12.37.52:568][ 42]LogViewport: Scene viewport resized to 433x183, mode Windowed.
+[2023.04.30-12.37.52:652][ 42]LogViewport: Scene viewport resized to 1917x773, mode Windowed.
+[2023.04.30-12.37.52:729][ 43]LogViewport: Scene viewport resized to 430x183, mode Windowed.
+[2023.04.30-12.37.52:805][ 43]LogViewport: Scene viewport resized to 1919x812, mode Windowed.
+[2023.04.30-12.37.52:854][ 44]LogViewport: Scene viewport resized to 1918x818, mode Windowed.
+[2023.04.30-12.37.53:263][ 76]LogViewport: Scene viewport resized to 433x183, mode Windowed.
+[2023.04.30-12.37.53:420][ 77]LogViewport: Scene viewport resized to 437x183, mode Windowed.
+[2023.04.30-12.37.53:495][ 77]LogViewport: Scene viewport resized to 1919x812, mode Windowed.
+[2023.04.30-12.37.53:546][ 78]LogViewport: Scene viewport resized to 1918x805, mode Windowed.
+[2023.04.30-12.37.53:908][104]LogViewport: Scene viewport resized to 433x183, mode Windowed.
+[2023.04.30-12.37.54:056][105]LogViewport: Scene viewport resized to 430x183, mode Windowed.
+[2023.04.30-12.37.54:132][105]LogViewport: Scene viewport resized to 1919x812, mode Windowed.
+[2023.04.30-12.37.54:208][106]LogViewport: Scene viewport resized to 426x183, mode Windowed.
+[2023.04.30-12.37.54:285][106]LogViewport: Scene viewport resized to 1918x818, mode Windowed.
+[2023.04.30-12.37.54:333][107]LogViewport: Scene viewport resized to 1918x825, mode Windowed.
+[2023.04.30-12.37.56:097][157]LogViewport: Scene viewport resized to 407x183, mode Windowed.
+[2023.04.30-12.37.56:198][158]LogViewport: Scene viewport resized to 1917x863, mode Windowed.
+[2023.04.30-12.37.57:133][173]LogViewport: Scene viewport resized to 412x183, mode Windowed.
+[2023.04.30-12.37.57:216][174]LogViewport: Scene viewport resized to 1919x853, mode Windowed.
+[2023.04.30-12.37.59:402][213]LogViewport: Scene viewport resized to 458x183, mode Windowed.
+[2023.04.30-12.37.59:493][214]LogViewport: Scene viewport resized to 1920x768, mode Windowed.
+[2023.04.30-12.38.01:631][251]LogViewport: Scene viewport resized to 440x183, mode Windowed.
+[2023.04.30-12.38.01:719][252]LogViewport: Scene viewport resized to 1917x799, mode Windowed.
+[2023.04.30-12.38.03:800][288]LogViewport: Scene viewport resized to 431x183, mode Windowed.
+[2023.04.30-12.38.03:886][289]LogViewport: Scene viewport resized to 1919x817, mode Windowed.
+[2023.04.30-12.38.10:497][406]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.30-12.38.10:590][406]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.04.30-12.38.10:599][406]LogSavePackage: Moving output files for package: /Game/MAPS/Cathedral_Demo_Persistent
+[2023.04.30-12.38.10:600][406]LogSavePackage: Moving '../../../../../../Users/views/Documents/GitHub/cathedral_ue5/CathedralUE5 5.1/Saved/Cathedral_Demo_Persistent003290F542690E8841E5DCB86AA61E78.tmp' to '../../../../../../Users/views/Documents/GitHub/cathedral_ue5/CathedralUE5 5.1/Content/MAPS/Cathedral_Demo_Persistent.umap'
+[2023.04.30-12.38.10:609][406]LogFileHelpers: Saving map 'Cathedral_Demo_Persistent' took 0.029
+[2023.04.30-12.38.10:614][406]LogFileHelpers: InternalPromptForCheckoutAndSave took 116 ms (total: 575 ms)
+[2023.04.30-12.38.10:619][406]AssetCheck: New page: Asset Save: Cathedral_Demo_Persistent
+[2023.04.30-12.38.10:619][406]LogContentValidation: Display: Validating /Script/Engine.World /Game/MAPS/Cathedral_Demo_Persistent.Cathedral_Demo_Persistent
+[2023.04.30-12.38.29:652][757]Cmd: TRANSACTION UNDO
+[2023.04.30-12.38.29:652][757]LogEditorTransaction: Undo Rotate Elements
+[2023.04.30-12.38.30:332][797]Cmd: MODE ROTGRID=0
+[2023.04.30-12.38.30:835][826]Cmd: MODE GRID=0
+[2023.04.30-12.38.31:218][835]Cmd: MODE SCALEGRID=0
+[2023.04.30-12.38.48:663][160]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'DefaultForeground'.'
+[2023.04.30-12.39.00:494][885]Cmd: TRANSACTION UNDO
+[2023.04.30-12.39.00:494][885]LogEditorTransaction: Undo Pilot Actor
+[2023.04.30-12.39.31:519][151]LogViewport: Scene viewport resized to 326x183, mode Windowed.
+[2023.04.30-12.39.32:027][159]Cmd: DELETE
+[2023.04.30-12.39.32:027][159]Cmd: ACTOR DELETE
+[2023.04.30-12.39.32:039][159]LogEditorActor: Deleted Actor: CineCameraActor
+[2023.04.30-12.39.32:092][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.04.30-12.39.32:094][159]LogEditorActor: Deleted 1 Actors (0.066 secs)
+[2023.04.30-12.39.32:620][174]LogViewport: Scene viewport resized to 431x183, mode Windowed.
+[2023.04.30-12.39.36:266][495]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.30-12.39.36:362][495]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2023.04.30-12.39.36:371][495]LogSavePackage: Moving output files for package: /Game/MAPS/Cathedral_Demo_Persistent
+[2023.04.30-12.39.36:371][495]LogSavePackage: Moving '../../../../../../Users/views/Documents/GitHub/cathedral_ue5/CathedralUE5 5.1/Saved/Cathedral_Demo_PersistentDB077DBC423781758B0F7A911D5C5923.tmp' to '../../../../../../Users/views/Documents/GitHub/cathedral_ue5/CathedralUE5 5.1/Content/MAPS/Cathedral_Demo_Persistent.umap'
+[2023.04.30-12.39.36:382][495]LogFileHelpers: Saving map 'Cathedral_Demo_Persistent' took 0.029
+[2023.04.30-12.39.36:386][495]LogFileHelpers: InternalPromptForCheckoutAndSave took 120 ms (total: 695 ms)
+[2023.04.30-12.39.36:390][495]AssetCheck: New page: Asset Save: Cathedral_Demo_Persistent
+[2023.04.30-12.39.36:390][495]LogContentValidation: Display: Validating /Script/Engine.World /Game/MAPS/Cathedral_Demo_Persistent.Cathedral_Demo_Persistent
+[2023.04.30-12.40.11:473][422]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.04.30-12.40.11:502][422]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Cathedral/Maps/DemoMap/SubLevels/Cathedral_Demo_Lighting_Auto1
+[2023.04.30-12.40.11:502][422]LogSavePackage: Moving '../../../../../../Users/views/Documents/GitHub/cathedral_ue5/CathedralUE5 5.1/Saved/Cathedral_Demo_Lighting_Auto1F4061A2D415704F5F0404EA886780E89.tmp' to '../../../../../../Users/views/Documents/GitHub/cathedral_ue5/CathedralUE5 5.1/Saved/Autosaves/Game/Cathedral/Maps/DemoMap/SubLevels/Cathedral_Demo_Lighting_Auto1.umap'
+[2023.04.30-12.40.11:508][422]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MAPS/Cathedral_Demo_Persistent' took 0.042
+[2023.04.30-12.40.11:508][422]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.042
+[2023.04.30-12.43.51:504][957]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.04.30-12.44.22:822][668]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.30-12.44.22:908][668]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.04.30-12.44.22:918][668]LogSavePackage: Moving output files for package: /Game/MAPS/Cathedral_Demo_Persistent
+[2023.04.30-12.44.22:919][668]LogSavePackage: Moving '../../../../../../Users/views/Documents/GitHub/cathedral_ue5/CathedralUE5 5.1/Saved/Cathedral_Demo_Persistent541CCB2D4167505D2CA33E965FA542E8.tmp' to '../../../../../../Users/views/Documents/GitHub/cathedral_ue5/CathedralUE5 5.1/Content/MAPS/Cathedral_Demo_Persistent.umap'
+[2023.04.30-12.44.22:928][668]LogFileHelpers: Saving map 'Cathedral_Demo_Persistent' took 0.034
+[2023.04.30-12.44.22:934][668]LogFileHelpers: InternalPromptForCheckoutAndSave took 111 ms (total: 807 ms)
+[2023.04.30-12.44.22:938][668]AssetCheck: New page: Asset Save: Cathedral_Demo_Persistent
+[2023.04.30-12.44.22:938][668]LogContentValidation: Display: Validating /Script/Engine.World /Game/MAPS/Cathedral_Demo_Persistent.Cathedral_Demo_Persistent
+[2023.04.30-12.44.41:339][101]Cmd: TRANSACTION UNDO
+[2023.04.30-12.44.41:340][101]LogEditorTransaction: Undo Set Scale
+[2023.04.30-12.44.50:219][350]LogShaderCompilers: Display: ================================================
+[2023.04.30-12.44.50:219][350]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.30-12.44.50:219][350]LogShaderCompilers: Display: Total job queries 344, among them cache hits 24 (6.98%)
+[2023.04.30-12.44.50:219][350]LogShaderCompilers: Display: Tracking 314 distinct input hashes that result in 271 distinct outputs (86.31%)
+[2023.04.30-12.44.50:219][350]LogShaderCompilers: Display: RAM used: 2.86 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.17%
+[2023.04.30-12.44.50:219][350]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.04.30-12.44.50:219][350]LogShaderCompilers: Display: Shaders Compiled: 23
+[2023.04.30-12.44.50:219][350]LogShaderCompilers: Display: Jobs assigned 29, completed 23 (79.31%)
+[2023.04.30-12.44.50:219][350]LogShaderCompilers: Display: Average time worker was idle: 493.90 s
+[2023.04.30-12.44.50:219][350]LogShaderCompilers: Display: Time job spent in pending queue: average 0.07 s, longest 0.71 s
+[2023.04.30-12.44.50:219][350]LogShaderCompilers: Display: Job execution time: average 0.97 s, max 2.15 s
+[2023.04.30-12.44.50:219][350]LogShaderCompilers: Display: Job life time (pending + execution): average 1.04 s, max 2.16
+[2023.04.30-12.44.50:219][350]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 4.40 s
+[2023.04.30-12.44.50:219][350]LogShaderCompilers: Display: Jobs were issued in 29 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.04.30-12.44.50:219][350]LogShaderCompilers: Display: Average processing rate: 5.22 jobs/sec
+[2023.04.30-12.44.50:219][350]LogShaderCompilers: Display: Total thread time: 16.08 s
+[2023.04.30-12.44.50:219][350]LogShaderCompilers: Display: Total thread preprocess time: 0.88 s
+[2023.04.30-12.44.50:219][350]LogShaderCompilers: Display: Percentage time preprocessing: 5.44%
+[2023.04.30-12.44.50:219][350]LogShaderCompilers: Display: Effective parallelization: 3.65 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2023.04.30-12.44.50:219][350]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.04.30-12.44.50:219][350]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    1 times, average 1.74 sec, max 1.74 sec, min 1.74 sec)
+[2023.04.30-12.44.50:219][350]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    2 times, average 1.41 sec, max 1.43 sec, min 1.39 sec)
+[2023.04.30-12.44.50:219][350]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    6 times, average 0.67 sec, max 1.11 sec, min 0.51 sec)
+[2023.04.30-12.44.50:220][350]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    6 times, average 0.64 sec, max 0.72 sec, min 0.49 sec)
+[2023.04.30-12.44.50:220][350]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    2 times, average 0.59 sec, max 0.60 sec, min 0.58 sec)
+[2023.04.30-12.44.50:220][350]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.04.30-12.44.50:220][350]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 25.18% of total time (compiled    6 times, average 0.67 sec, max 1.11 sec, min 0.51 sec)
+[2023.04.30-12.44.50:220][350]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 23.77% of total time (compiled    6 times, average 0.64 sec, max 0.72 sec, min 0.49 sec)
+[2023.04.30-12.44.50:220][350]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 17.54% of total time (compiled    2 times, average 1.41 sec, max 1.43 sec, min 1.39 sec)
+[2023.04.30-12.44.50:220][350]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 10.83% of total time (compiled    1 times, average 1.74 sec, max 1.74 sec, min 1.74 sec)
+[2023.04.30-12.44.50:220][350]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 10.32% of total time (compiled    4 times, average 0.41 sec, max 0.45 sec, min 0.38 sec)
+[2023.04.30-12.44.50:220][350]LogShaderCompilers: Display: ================================================
+[2023.04.30-12.45.11:519][831]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.30-12.45.11:621][831]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.04.30-12.45.11:634][831]LogSavePackage: Moving output files for package: /Game/MAPS/Cathedral_Demo_Persistent
+[2023.04.30-12.45.11:635][831]LogSavePackage: Moving '../../../../../../Users/views/Documents/GitHub/cathedral_ue5/CathedralUE5 5.1/Saved/Cathedral_Demo_Persistent8A6873FA4ADF8AB31F155984E0CB24F0.tmp' to '../../../../../../Users/views/Documents/GitHub/cathedral_ue5/CathedralUE5 5.1/Content/MAPS/Cathedral_Demo_Persistent.umap'
+[2023.04.30-12.45.11:644][831]LogFileHelpers: Saving map 'Cathedral_Demo_Persistent' took 0.047
+[2023.04.30-12.45.11:656][831]LogFileHelpers: InternalPromptForCheckoutAndSave took 137 ms (total: 944 ms)
+[2023.04.30-12.45.11:661][831]AssetCheck: New page: Asset Save: Cathedral_Demo_Persistent
+[2023.04.30-12.45.11:661][831]LogContentValidation: Display: Validating /Script/Engine.World /Game/MAPS/Cathedral_Demo_Persistent.Cathedral_Demo_Persistent
+[2023.04.30-12.45.23:036][ 94]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.30-12.45.23:123][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2023.04.30-12.45.23:133][ 94]LogSavePackage: Moving output files for package: /Game/MAPS/Cathedral_Demo_Persistent
+[2023.04.30-12.45.23:134][ 94]LogSavePackage: Moving '../../../../../../Users/views/Documents/GitHub/cathedral_ue5/CathedralUE5 5.1/Saved/Cathedral_Demo_Persistent3C66A13545C111C806EC9094A4D7B363.tmp' to '../../../../../../Users/views/Documents/GitHub/cathedral_ue5/CathedralUE5 5.1/Content/MAPS/Cathedral_Demo_Persistent.umap'
+[2023.04.30-12.45.23:143][ 94]LogFileHelpers: Saving map 'Cathedral_Demo_Persistent' took 0.028
+[2023.04.30-12.45.23:153][ 94]LogFileHelpers: InternalPromptForCheckoutAndSave took 116 ms (total: 1.06 sec)
+[2023.04.30-12.45.23:158][ 94]AssetCheck: New page: Asset Save: Cathedral_Demo_Persistent
+[2023.04.30-12.45.23:158][ 94]LogContentValidation: Display: Validating /Script/Engine.World /Game/MAPS/Cathedral_Demo_Persistent.Cathedral_Demo_Persistent
+[2023.04.30-12.46.13:357][284]Cmd: TRANSACTION UNDO
+[2023.04.30-12.46.13:357][284]LogEditorTransaction: Undo Edit Fog Density
+[2023.04.30-12.46.14:135][338]Cmd: TRANSACTION REDO
+[2023.04.30-12.46.14:135][338]LogEditorTransaction: Redo Edit Fog Density
+[2023.04.30-12.46.15:135][374]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.30-12.46.15:220][374]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.04.30-12.46.15:232][374]LogSavePackage: Moving output files for package: /Game/MAPS/Cathedral_Demo_Persistent
+[2023.04.30-12.46.15:233][374]LogSavePackage: Moving '../../../../../../Users/views/Documents/GitHub/cathedral_ue5/CathedralUE5 5.1/Saved/Cathedral_Demo_Persistent4643FCAE494352D88460C492B95061DC.tmp' to '../../../../../../Users/views/Documents/GitHub/cathedral_ue5/CathedralUE5 5.1/Content/MAPS/Cathedral_Demo_Persistent.umap'
+[2023.04.30-12.46.15:242][374]LogFileHelpers: Saving map 'Cathedral_Demo_Persistent' took 0.033
+[2023.04.30-12.46.15:253][374]LogFileHelpers: InternalPromptForCheckoutAndSave took 117 ms (total: 1.17 sec)
+[2023.04.30-12.46.15:258][374]AssetCheck: New page: Asset Save: Cathedral_Demo_Persistent
+[2023.04.30-12.46.15:258][374]LogContentValidation: Display: Validating /Script/Engine.World /Game/MAPS/Cathedral_Demo_Persistent.Cathedral_Demo_Persistent
+[2023.04.30-12.46.25:276][640]Cmd: TRANSACTION UNDO
+[2023.04.30-12.46.25:276][640]LogEditorTransaction: Undo Edit Fog Density
+[2023.04.30-12.46.29:734][838]Cmd: TRANSACTION UNDO
+[2023.04.30-12.46.29:734][838]LogEditorTransaction: Undo Edit Base Color Intensity
+[2023.04.30-12.46.40:184][153]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.30-12.46.40:280][153]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.04.30-12.46.40:292][153]LogSavePackage: Moving output files for package: /Game/MAPS/Cathedral_Demo_Persistent
+[2023.04.30-12.46.40:293][153]LogSavePackage: Moving '../../../../../../Users/views/Documents/GitHub/cathedral_ue5/CathedralUE5 5.1/Saved/Cathedral_Demo_Persistent42171041469BDC711F558F92BA6EECDD.tmp' to '../../../../../../Users/views/Documents/GitHub/cathedral_ue5/CathedralUE5 5.1/Content/MAPS/Cathedral_Demo_Persistent.umap'
+[2023.04.30-12.46.40:304][153]LogFileHelpers: Saving map 'Cathedral_Demo_Persistent' took 0.044
+[2023.04.30-12.46.40:315][153]LogFileHelpers: InternalPromptForCheckoutAndSave took 130 ms (total: 1.30 sec)
+[2023.04.30-12.46.40:320][153]AssetCheck: New page: Asset Save: Cathedral_Demo_Persistent
+[2023.04.30-12.46.40:320][153]LogContentValidation: Display: Validating /Script/Engine.World /Game/MAPS/Cathedral_Demo_Persistent.Cathedral_Demo_Persistent
+[2023.04.30-12.46.58:518][639]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.30-12.46.58:602][639]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2023.04.30-12.46.58:611][639]LogSavePackage: Moving output files for package: /Game/MAPS/Cathedral_Demo_Persistent
+[2023.04.30-12.46.58:612][639]LogSavePackage: Moving '../../../../../../Users/views/Documents/GitHub/cathedral_ue5/CathedralUE5 5.1/Saved/Cathedral_Demo_PersistentC079FCBD4CCE6503CC92688799403261.tmp' to '../../../../../../Users/views/Documents/GitHub/cathedral_ue5/CathedralUE5 5.1/Content/MAPS/Cathedral_Demo_Persistent.umap'
+[2023.04.30-12.46.58:621][639]LogFileHelpers: Saving map 'Cathedral_Demo_Persistent' took 0.029
+[2023.04.30-12.46.58:631][639]LogFileHelpers: InternalPromptForCheckoutAndSave took 113 ms (total: 1.42 sec)
+[2023.04.30-12.46.58:635][639]AssetCheck: New page: Asset Save: Cathedral_Demo_Persistent
+[2023.04.30-12.46.58:635][639]LogContentValidation: Display: Validating /Script/Engine.World /Game/MAPS/Cathedral_Demo_Persistent.Cathedral_Demo_Persistent
+[2023.04.30-12.48.04:593][137]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.30-12.48.04:679][137]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2023.04.30-12.48.04:692][137]LogSavePackage: Moving output files for package: /Game/MAPS/Cathedral_Demo_Persistent
+[2023.04.30-12.48.04:693][137]LogSavePackage: Moving '../../../../../../Users/views/Documents/GitHub/cathedral_ue5/CathedralUE5 5.1/Saved/Cathedral_Demo_Persistent67D70B4548770F483BED94800484A2B4.tmp' to '../../../../../../Users/views/Documents/GitHub/cathedral_ue5/CathedralUE5 5.1/Content/MAPS/Cathedral_Demo_Persistent.umap'
+[2023.04.30-12.48.04:702][137]LogFileHelpers: Saving map 'Cathedral_Demo_Persistent' took 0.032
+[2023.04.30-12.48.04:714][137]LogFileHelpers: InternalPromptForCheckoutAndSave took 120 ms (total: 1.54 sec)
+[2023.04.30-12.48.04:719][137]AssetCheck: New page: Asset Save: Cathedral_Demo_Persistent
+[2023.04.30-12.48.04:719][137]LogContentValidation: Display: Validating /Script/Engine.World /Game/MAPS/Cathedral_Demo_Persistent.Cathedral_Demo_Persistent
+[2023.04.30-12.48.08:768][227]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.30-12.48.08:856][227]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2023.04.30-12.48.08:866][227]LogSavePackage: Moving output files for package: /Game/MAPS/Cathedral_Demo_Persistent
+[2023.04.30-12.48.08:867][227]LogSavePackage: Moving '../../../../../../Users/views/Documents/GitHub/cathedral_ue5/CathedralUE5 5.1/Saved/Cathedral_Demo_Persistent1EC8ABFB4C729C219480538078B50279.tmp' to '../../../../../../Users/views/Documents/GitHub/cathedral_ue5/CathedralUE5 5.1/Content/MAPS/Cathedral_Demo_Persistent.umap'
+[2023.04.30-12.48.08:875][227]LogFileHelpers: Saving map 'Cathedral_Demo_Persistent' took 0.028
+[2023.04.30-12.48.08:880][227]LogFileHelpers: InternalPromptForCheckoutAndSave took 112 ms (total: 1.65 sec)
+[2023.04.30-12.48.08:884][227]AssetCheck: New page: Asset Save: Cathedral_Demo_Persistent
+[2023.04.30-12.48.08:884][227]LogContentValidation: Display: Validating /Script/Engine.World /Game/MAPS/Cathedral_Demo_Persistent.Cathedral_Demo_Persistent
+[2023.04.30-12.48.09:675][251]LogViewport: Scene viewport resized to 431x183, mode Windowed.
+[2023.04.30-12.48.15:178][418]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.30-12.48.15:259][418]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2023.04.30-12.48.15:268][418]LogSavePackage: Moving output files for package: /Game/MAPS/Cathedral_Demo_Persistent
+[2023.04.30-12.48.15:268][418]LogSavePackage: Moving '../../../../../../Users/views/Documents/GitHub/cathedral_ue5/CathedralUE5 5.1/Saved/Cathedral_Demo_PersistentCBA7DAEF41A27A5CE60F768B6D7B8325.tmp' to '../../../../../../Users/views/Documents/GitHub/cathedral_ue5/CathedralUE5 5.1/Content/MAPS/Cathedral_Demo_Persistent.umap'
+[2023.04.30-12.48.15:278][418]LogFileHelpers: Saving map 'Cathedral_Demo_Persistent' took 0.028
+[2023.04.30-12.48.15:282][418]LogFileHelpers: InternalPromptForCheckoutAndSave took 103 ms (total: 1.75 sec)
+[2023.04.30-12.48.15:286][418]AssetCheck: New page: Asset Save: Cathedral_Demo_Persistent
+[2023.04.30-12.48.15:286][418]LogContentValidation: Display: Validating /Script/Engine.World /Game/MAPS/Cathedral_Demo_Persistent.Cathedral_Demo_Persistent
